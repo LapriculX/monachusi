@@ -1,0 +1,1 @@
+speed=int(input("what is the speed"))
